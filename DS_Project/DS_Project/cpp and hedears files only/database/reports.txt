@@ -1,0 +1,13 @@
+Y
+The count of the members is 3
+The count of the coach is 2
+The count of the receptionist is 1
+The most demanded classSession is with ID: 601117 having total demand of: 1 (Registered + Waiting List).
+The top padel booker member: 1002
+Y
+The count of the members is 3
+The count of the coach is 2
+The count of the receptionist is 1
+The most demanded classSession is with ID: 601117 having total demand of: 1 (Registered + Waiting List).
+The top padel booker member: 1002
+N
